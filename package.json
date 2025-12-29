@@ -1,0 +1,32 @@
+{
+  "name": "qihui-tech",
+  "displayName": "QiHui Tech",
+  "description": "QiHui Tech official color theme",
+  "publisher": "damonsongyu",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damonsongyu/qihui-tech-theme.git"
+  },
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "QiHui Tech",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qihui-tech-color-theme.json"
+      },
+      {
+        "label": "QiHui Tech Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qihui-tech-night-color-theme.json"
+      }
+    ]
+  }
+}

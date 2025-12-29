@@ -3,3 +3,8 @@ node_modules
 .vscode-test
 *.vsix
 .DS_Store
+
+# Re-include important json files blocked by global gitignore
+!package.json
+!themes/*.json
+!.vscode/*.json
