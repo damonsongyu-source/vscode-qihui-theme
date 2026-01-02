@@ -6,9 +6,9 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/damonsongyu/qihui-tech-theme.git"
+    "url": "https://github.com/damonsongyu-source/vscode-qihui-theme"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -26,6 +26,11 @@
         "label": "QiHui Tech Night",
         "uiTheme": "vs-dark",
         "path": "./themes/qihui-tech-night-color-theme.json"
+      },
+      {
+        "label": "QiHui Tech Light",
+        "uiTheme": "vs",
+        "path": "./themes/qihui-tech-light-color-theme.json"
       }
     ]
   }
