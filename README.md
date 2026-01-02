@@ -14,6 +14,17 @@ A professional, forest-inspired dark theme for Visual Studio Code.
 - **Foreground**: `#DAD7CD` (Soft White)
 - **Accents**: `#E9C46A` (Autumn Leaf), `#F4A261` (Sunset), `#A3B18A` (Sage)
 
+## Screenshots
+
+### QiHui Tech (Dark)
+![Dark Theme](images/screenshot-dark.png)
+
+### QiHui Tech Night
+![Night Theme](images/screenshot-night.png)
+
+### QiHui Tech Light
+![Light Theme](images/screenshot-light.png)
+
 ## Installation
 
 1. Download the `.vsix` file.
